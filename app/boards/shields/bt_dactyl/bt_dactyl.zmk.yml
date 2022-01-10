@@ -1,0 +1,7 @@
+file_format: "1"
+id: bt_dactyl
+name: Purple Dactyl
+type: shield
+url: https://example.com
+features:
+  - keys
